@@ -1,5 +1,4 @@
 from exercise1_3 import exercise3
-import pytest
 
 def test_exercise3():
    assert exercise3("mmi", "web")=="Authorized"

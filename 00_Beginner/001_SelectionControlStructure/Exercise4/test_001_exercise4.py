@@ -1,5 +1,4 @@
 from exercise1_4 import exercise4
-import pytest
 
 def test_exercise4():
    #assert exercise4(2100)==False
