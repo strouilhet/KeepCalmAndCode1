@@ -1,4 +1,4 @@
-from exercise3 import exercise3
+from exercise1_3 import exercise3
 import pytest
 
 def test_exercise3():

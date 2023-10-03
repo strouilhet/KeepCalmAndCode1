@@ -1,5 +1,4 @@
-
-from exercise2 import exercise2
+from exercise0_2 import exercise2
 import pytest
 
 def test_exercise2():

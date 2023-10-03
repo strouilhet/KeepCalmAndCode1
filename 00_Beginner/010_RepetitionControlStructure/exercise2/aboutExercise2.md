@@ -8,4 +8,4 @@ Par exemple, le nombre 153 est composé de 3 chiffres : 1, 5 et 3. On doit donc 
 
 Au final on a 1^3 + 5^3 + 3^3 = 153. On retrouve le nombre original 153 donc c'est un nombre d'Armstrong.
 
-écrire unr fonction qui renvoie True si un nombre nb est un nombre d'Amstrong, False sinon.
+écrire une fonction qui renvoie True si un nombre nb est un nombre d'Amstrong, False sinon.
