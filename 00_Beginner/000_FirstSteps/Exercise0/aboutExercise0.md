@@ -1,0 +1,1 @@
+Écrire une fonction qui renvoie `Hello MMI` (utiliser le mot-clé `return`)

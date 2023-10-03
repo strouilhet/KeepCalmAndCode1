@@ -1,0 +1,1 @@
+Écrire une fonction qui renvoie la somme de 2 nombres a et b (a et b sont passés en paramètre à la fonction)

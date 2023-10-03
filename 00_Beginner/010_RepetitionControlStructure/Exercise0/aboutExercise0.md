@@ -1,0 +1,1 @@
+Écrire une fonction qui affiche la somme des nombres compris entre 0 et max (max est passé en paramètre)
