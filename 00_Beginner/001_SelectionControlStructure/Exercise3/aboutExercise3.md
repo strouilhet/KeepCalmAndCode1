@@ -1,1 +1,1 @@
-Écrire une fonction qui contrôle l’accès des utilisateurs en fonction d'un login et d'un mot de passe passés en paramètre. Si le login est `mmi` et le mot de passe `web`, la fonction retourne  `Authorized` ; sinon, elle retourne `Denied`
+Écrire une fonction qui contrôle l’accès des utilisateurs en fonction d'un login et d'un mot de passe passés en paramètre. <BR>Si le login est `mmi` et le mot de passe `web`, la fonction retourne  `Authorized` ; sinon, elle retourne `Denied`

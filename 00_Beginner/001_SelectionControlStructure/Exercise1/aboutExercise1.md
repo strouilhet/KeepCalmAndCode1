@@ -1,1 +1,1 @@
-Écrire une fonction qui détermine si 3 nombres quelconques passés en paramètre sont tous différents. La fonction retourne un des trois messages possibles : «all different», «two equal», «three equal».
+Écrire une fonction qui détermine si 3 nombres quelconques passés en paramètre sont tous différents. La fonction retourne un des trois messages possibles : `all different`, `two equal`, `three equal`.

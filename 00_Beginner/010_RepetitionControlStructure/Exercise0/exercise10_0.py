@@ -1,3 +1,7 @@
 def exercise0(max):
-    # remplacer cette ligne par la ou les instructions
-    return "Hello MMI"
+    i=1
+    sum=0
+    while i<=max:
+        sum=sum+i
+        i=i+1
+    return sum

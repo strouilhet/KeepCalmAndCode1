@@ -1,3 +1,5 @@
 def exercise4(an):
-    # remplacer cette ligne par la ou les instructions
-    return "Hello MMI"
+    rep= False
+    if (an%4==0 and an%100 !=0 or an%400==0):
+        rep=True
+    return rep
