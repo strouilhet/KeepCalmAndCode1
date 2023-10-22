@@ -1,10 +1,8 @@
-from datetime import date
 
 def exercise0(jour, mois, an):
-    #dateC=date.today()
-    anC=2030 #dateC.year
-    moisC=1 #dateC.month
-    jourC=1 #dateC.day
+    anC=2030
+    moisC=1
+    jourC=1
     if mois < moisC: # l'anniversaire est passé
         age=str(anC-an)+" ans "
         if jour < jourC:
@@ -23,6 +21,3 @@ def exercise0(jour, mois, an):
             age=age+ str(12-mois+moisC-1)+" mois "
             age=age+str(31-jour+jourC)+" jours"
     return age
-
-
-print(exercise0(13,10,2020))
