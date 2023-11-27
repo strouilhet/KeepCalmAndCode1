@@ -1,6 +1,6 @@
 Reprendre le programme de l'exercice 0 et le modifier pour que s'affiche dans le navigateur le message "Bonjour, je m'appelle ... et  j'ai ... ans"
 
-Pour calculer votre âge utiliser `datetime.datetime.now()` qui retourne l'année. IL faut importer la librairie (`import datetime`).
+Pour calculer votre âge utiliser `datetime.datetime.now().year` qui retourne l'année. IL faut importer la librairie (`import datetime`).
 
 Amélioration : écrire une fonction qui retourne l'âge sour la forme d'un tableau [ans, mois].
 Le jour, le mois et l'année de naissance sont passés en paramètre.
