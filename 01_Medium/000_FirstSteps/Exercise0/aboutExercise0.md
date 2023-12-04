@@ -3,7 +3,7 @@
 
 Consignes :
 - ouvrir un terminal,
-- installer Flask : dans le terminal, taper la commande `python -m pip install flask`
+- installer Flask : dans le terminal, taper la commande `C:/Users/trouilhe/AppData/Local/Microsoft/WindowsApps/python3.11.exe -m pip install flask`
 NB : si python n'est pas accessible depuis le répertoire courant, donner le chemin complet. IL doit ressembler à `C:/Users/prenom.nom/AppData/Local/Microsoft/WindowsApps/python3.11.exe`
 - se positionner dans le répoertoire contenant le fichier app.py : taper la commande  `cd .\000_FirstSteps\Exercise0\`
 - lancer le programme "serveur" : taper la commande `python -m flask run` 
